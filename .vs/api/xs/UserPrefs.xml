@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{2475C946-A0A1-4017-AA4A-EA9DD919D433}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Startup.cs">
+    <Files>
+      <File FileName="Startup.cs" Line="14" Column="36" />
+      <File FileName="DbData/DbGetTest.cs" Line="9" Column="28" />
+      <File FileName="Models/Interfaces/IDbTest.cs" Line="6" Column="24" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="api" expanded="True">
+            <Node name="api" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="DbData" expanded="True" />
+              <Node name="Models" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.api PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
